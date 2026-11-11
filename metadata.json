@@ -1,0 +1,6 @@
+{
+  "name": "OmniStock Robotics & Wholesale POS",
+  "description": "Autonomous wholesale platform and supermarket POS with AI stock management, computer-vision self-checkout, AGV and robotic picking fleet, and dynamic pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
